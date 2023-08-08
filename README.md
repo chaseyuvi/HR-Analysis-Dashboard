@@ -10,13 +10,19 @@ Employee attrition is a significant challenge for organizations, often resulting
 
 ## Skills
 
-The development of the HR Analytics Dashboard project requires a combination of skills, including:
+The development of the HR Analytics Dashboard project requires a combination of skills,
 
-Data analysis and interpretation
-Big data processing and manipulation
-Algorithm implementation for pattern recognition
-Data visualization and dashboard creation
-Domain knowledge in human resources and employee management
+including:
+
+          Data analysis and interpretation
+
+          Big data processing and manipulation
+
+          Algorithm implementation for pattern recognition
+
+          Data visualization and dashboard creation
+
+          Domain knowledge in human resources and employee management
 
 ## Data Sourcing
 
