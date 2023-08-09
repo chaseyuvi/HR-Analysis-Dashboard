@@ -47,3 +47,5 @@ Strategically plan for improved employee retention
 Make informed decisions based on real-time KPI monitoring
 Optimize HR practices through enhanced efficiency and automation
 Ultimately, the HR Analytics Dashboard project is poised to empower HR professionals with the tools they need to create a more engaged, satisfied, and productive workforce, driving organizational success.
+
+# This project was created by [JATIN KATIYAR].
